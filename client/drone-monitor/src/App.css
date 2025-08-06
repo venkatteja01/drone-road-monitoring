@@ -1,0 +1,20 @@
+body {
+  body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+  }
+}
+
+video {
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.MuiPaper-root {
+  padding: 20px;
+  margin-bottom: 20px;
+}
